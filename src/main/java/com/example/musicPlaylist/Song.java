@@ -1,3 +1,5 @@
+package com.example.musicPlaylist;
+
 public class Song {
     private String title;
     private String artist;
